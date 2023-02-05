@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "feed",
+    "slug": "feed",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
